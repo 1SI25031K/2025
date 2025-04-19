@@ -39,6 +39,8 @@ If you would like to update your submission status please find your file in `Sub
 |[Kevin Mekic](https://www.linkedin.com/in/kevin-mekic-b5833b170/)|[GitHub](https://github.com/kevinmekic/wwdc2025)|-|SwiftUI|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Leandro](https://x.com/Droni0s)|[GitHub](https://github.com/Lxdro/the_Terminal-tor)|-|SwiftUI, AVKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Leandro Tolaini](https://x.com/Droni0s)|[GitHub](https://github.com/Lxdro/the_Terminal-tor)|-|SwiftUI|![Distinguished](https://img.shields.io/badge/distinguished-goldenrod?style=for-the-badge)|
+
+
 |[Lucas Lavajo](https://tryon-lab.fr)|[GitHub](https://github.com/tryon-dev/wwdc2025)|-|SwiftUI, CoreMotion, Vision|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 |[Lukas Lauerer](https://www.twitter.com/custusfox)|[GitHub](https://github.com/Black-Fox-2022/SpotOn-SSC25)|-|SwiftUI, AVFoundation|![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge)|
 |[Mhmd Ebrahim](https://www.linkedin.com/in/mhmd-ebrahim)|-|[YouTube](https://youtu.be/QXox8H-kWo0?si=BJue2fhX-Rt0aUUB)|SwiftUI, PS algorithms|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
